@@ -1,0 +1,5 @@
+<templateSet group="Zen XSL">
+  <template name="msg" value="&lt;xsl:message terminate=&quot;no&quot;&gt;$END$&lt;/xsl:message&gt;&#10;jn" description="&lt;xsl:message terminate=&quot;no&quot;&gt;...&lt;/xsl:message&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

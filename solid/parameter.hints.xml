@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.lang.Object.wait(timeoutMillis)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

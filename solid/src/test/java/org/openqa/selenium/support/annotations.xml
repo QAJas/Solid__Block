@@ -1,0 +1,7 @@
+<root>
+    <item name='org.openqa.selenium.support.FindBy java.lang.String className()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

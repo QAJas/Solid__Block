@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="ijkm" type="AUTO_DETECTED" />
+      <mapping pattern="testNg" type="AUTO_DETECTED" />
+      <mapping pattern="TestNG" type="AUTO_DETECTED" />
+      <mapping pattern="o" type="CLASS" />
+      <mapping pattern="file" type="JAVA" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="XML" />
+      <mapping pattern="pox" type="XML" />
+      <mapping pattern="ng" type="XML" />
+      <mapping pattern="pom" type="XML" />
+      <mapping pattern="testNG" type="XML" />
+      <mapping pattern="test_NG" type="XML" />
+    </extensionMap>
+  </component>
+</application>

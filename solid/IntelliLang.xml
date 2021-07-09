@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GitIgnore" injector-id="java">
+      <display-name>FileTime.to (java.nio.file.attribute)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("to").withParameters("java.util.concurrent.TimeUnit").definedInClass("java.nio.file.attribute.FileTime"))]]></place>
+    </injection>
+  </component>
+</application>
